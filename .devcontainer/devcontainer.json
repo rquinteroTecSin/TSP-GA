@@ -4,7 +4,8 @@
 			"extensions": [
 				"GitHub.copilot",
 				"ms-python.python",
-				"ms-python.pylint"
+				"ms-python.pylint",
+				"ms-toolsai.vscode-jupyter-slideshow"
 			]
 		}
 	},
